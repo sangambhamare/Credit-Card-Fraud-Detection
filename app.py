@@ -114,7 +114,6 @@ if st.button("Predict Fraud Risk"):
     else:
         st.success(f"✅ Safe Transaction (Probability: {probability:.4f})")
 
-
 st.markdown("---")  
 st.markdown("### © All Copyrights Reserved to **Mr. Sangam Sanjay Bhamare, 2025**")
 
